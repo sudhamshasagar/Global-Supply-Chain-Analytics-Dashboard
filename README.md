@@ -37,6 +37,12 @@ The dashboard is designed to support strategic decision-making in supply chain a
 - Power Query  
 - DAX (Data Analysis Expressions)
 
+Few Snippets of dashboard are attached below:
+
+![image](https://github.com/user-attachments/assets/f8fca287-e011-45f6-abf3-634d1e2d8aef)
+![image](https://github.com/user-attachments/assets/aefa7805-1108-4395-b42a-c6d0f0fadfd8)
+
+
 ---
 
 ## 📁 Project Structure
